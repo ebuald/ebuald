@@ -4,6 +4,21 @@
 
 ###
 
-<h1 align="center">トゥワイス</h1>
+<h4 align="center">トゥワイス</h4>
+
+###
+
+<h6 align="center">IM NAYEON, YOO JEONGYEON, MOMO JJANG, SANA JJANG, PARK JIHYO, MINA JJANG, KIM DAHYUN, SON CHAEYOUNG, CHOU TZUYU, ONE IN A MILLION, NUNBUSHIGE SARANGHAE, TEU WA I SEU!</h6>
+
+###
+
+<div align="right">
+  <a href="https://dribbble.com/drdsls" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" width="32" height="20" alt="dribbble logo"  />
+  </a>
+  <a href="https://t.me/ebuald" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="32" height="20" alt="telegram logo"  />
+  </a>
+</div>
 
 ###
